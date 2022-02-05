@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt-wrtnodep2副本
+name: Build OpenWrt-wrtnodep2-Lienol
 
 on:
   repository_dispatch:
