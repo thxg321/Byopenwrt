@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt-wrtnodep2-openwrt-lean-19.07
+name: Build OpenWrt-wrtnodep2-lean-19.07
 
 on:
   repository_dispatch:
